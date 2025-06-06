@@ -42,7 +42,7 @@ Design a simple sales dashboard to visualize:
 
 ## 📷 Files Included
 
-- Dashboard screenshots 
+- Dashboard screenshots (png)
 - Insights document (pdf format)
 - Used data: Sample - Superstore.csv convert into Sample super store.xlsx
 - This README.md
