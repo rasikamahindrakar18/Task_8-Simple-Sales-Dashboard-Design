@@ -20,7 +20,7 @@ Design a simple sales dashboard to visualize:
 
 - *Power BI Desktop* for visualization
 - *Superstore_Sales.csv* dataset (sourced from Kaggle)
-- *data formatting using Power BI DAX
+-  data formatting using Power BI DAX
 
 
 ## 📈 Dashboard Features
